@@ -2,7 +2,7 @@
 
 [Normal Computing](https://normalcomputing.ai) is pioneering AI that thinks deeply to solve the world's most critical applications.
 
-Normal develops full-stack technology to unlock deep understanding and reasoning in AI through algorithms and infrastructure which enable reliability, adaptivity, and auditable control.
+Normal develops full-stack technology to unlock nuanced understanding and complex reasoning in AI through algorithms and infrastructure which enable reliability, adaptivity, and auditable control.
 
 ## 🌈 Contributing
 
