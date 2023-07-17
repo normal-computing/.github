@@ -1,8 +1,8 @@
 ## Welcome 👋
 
-[Normal Computing](https://normalcomputing.ai) is pioneering AI that thinks deeply to solve the world's most critical applications.
+We are on a mission to make AI universally scalable and useful.
 
-Normal develops full-stack technology to unlock nuanced understanding and complex reasoning in AI through algorithms and infrastructure which enable reliability, adaptivity, and auditable control.
+[Normal Computing](https://normalcomputing.ai) develops full-stack technology to unlock nuanced understanding and complex reasoning in AI through algorithms and infrastructure which enable reliability, adaptivity, and auditable control. For the benefit of humanity, organizations, and enterprise.
 
 ## 🌈 Contributing
 
