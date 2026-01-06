@@ -2,7 +2,7 @@
 
 We are on a mission to make AI universally scalable and useful.
 
-[Normal Computing](https://normalcomputing.ai) develops full-stack technology to unlock nuanced understanding and complex reasoning in AI through algorithms and infrastructure which enable reliability, adaptivity, and auditable control. For the benefit of humanity, organizations, and enterprise.
+[Normal Computing](https://normalcomputing.com) develops full-stack technology to unlock nuanced understanding and complex reasoning in AI through algorithms and infrastructure which enable reliability, adaptivity, and auditable control. For the benefit of humanity, organizations, and enterprise.
 
 ## 🌈 Contributing
 
